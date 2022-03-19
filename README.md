@@ -25,6 +25,7 @@ Here are some ideas to get you started:
   <b>OS</b><br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows 8" alt="Windows 8" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
   <br><br>
   <b>IDEs</b><br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
