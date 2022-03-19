@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <!--[![github](https://img.shields.io/badge/Telegram_Channel-0099DD?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/artmih24channel/)-->
 <!--[![github](https://img.shields.io/badge/Instagram-BB00FF?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/artmih24/)-->
-![](https://komarev.com/ghpvc/?username=artmih24&style=for-the-badge&label=PROFILE+VIEWS)
+[![](https://komarev.com/ghpvc/?username=artmih24&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/artmih24/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artmih24)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artmih24&layout=compact&langs_count=24)](https://github.com/anuraghazra/github-readme-stats)
