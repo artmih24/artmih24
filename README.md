@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 <!--[![github](https://img.shields.io/badge/Telegram-0077AA?logo=Telegram&logoColor=white)](https://t.me/artmih24/)-->
 <!--[![github](https://img.shields.io/badge/Telegram-0099DD?logo=Telegram&logoColor=white)](https://t.me/artmih24/)-->
 <!--[![github](https://img.shields.io/badge/VK-0033FF?logo=VK&logoColor=white)](https://vk.com/artmih24/)-->
-
 <!--[![github](https://img.shields.io/badge/Telegram_Channel-0099DD?logo=Telegram&logoColor=white)](https://t.me/artmih24channel/)-->
 <!--[![github](https://img.shields.io/badge/Instagram-BB00FF?logo=Instagram&logoColor=white)](https://instagram.com/artmih24/)-->
 [![](https://komarev.com/ghpvc/?username=artmih24)](https://github.com/artmih24/)
