@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 [![](https://komarev.com/ghpvc/?username=artmih24)](https://github.com/artmih24/)
 
 <div>
-  <b>GitHub</b><br>
+<!--   <b>GitHub</b><br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-  <br><br>
+  <br><br> -->
   <b>OS</b><br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows 8" alt="Windows 8" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
