@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 [![github](https://img.shields.io/badge/GitHub-000000?logo=GitHub&logoColor=white)](https://github.com/artmih24/)
 [![](https://komarev.com/ghpvc/?username=artmih24)](https://github.com/artmih24/)
+[![GitHub Repo stars](https://img.shields.io/github/stars/artmih24?style=social)](https://github.com/artmih24/)
 
 <div>
 <!--   <b>GitHub</b><br>
