@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![github](https://img.shields.io/badge/GitHub-000000?logo=GitHub&logoColor=white)](https://github.com/artmih24/)
-[![github](https://img.shields.io/badge/Telegram-0077AA?logo=Telegram&logoColor=white)](https://t.me/artmih24/)
+<!--[![github](https://img.shields.io/badge/Telegram-0077AA?logo=Telegram&logoColor=white)](https://t.me/artmih24/)-->
 <!--[![github](https://img.shields.io/badge/Telegram-0099DD?logo=Telegram&logoColor=white)](https://t.me/artmih24/)-->
 <!--[![github](https://img.shields.io/badge/VK-0033FF?logo=VK&logoColor=white)](https://vk.com/artmih24/)-->
 
