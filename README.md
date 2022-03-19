@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/artmih24/)
+[![github](https://img.shields.io/badge/GitHub-000000?logo=GitHub&logoColor=white)](https://github.com/artmih24/)
 [![github](https://img.shields.io/badge/Telegram-0077AA?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/artmih24/)
 <!--[![github](https://img.shields.io/badge/Telegram-0099DD?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/artmih24/)-->
 <!--[![github](https://img.shields.io/badge/VK-0033FF?style=for-the-badge&logo=VK&logoColor=white)](https://vk.com/artmih24/)-->
