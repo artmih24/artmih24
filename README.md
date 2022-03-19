@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 ![github](https://img.shields.io/badge/Telegram-00BBFF?style=for-the-badge&logo=Telegram&logoColor=white)
-![github](https://img.shields.io/badge/VK-0000FF?style=for-the-badge&logo=VK&logoColor=white)
+![github](https://img.shields.io/badge/VK-0033FF?style=for-the-badge&logo=VK&logoColor=white)
 ![github](https://img.shields.io/badge/Instagram-BB00FF?style=for-the-badge&logo=Instagram&logoColor=white)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artmih24)](https://github.com/anuraghazra/github-readme-stats)
