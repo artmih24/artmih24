@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 [![github](https://img.shields.io/badge/GitHub-000000?logo=GitHub&logoColor=white)](https://github.com/artmih24/)
 [![](https://komarev.com/ghpvc/?username=artmih24)](https://github.com/artmih24/)
 [![GitHub Repo stars](https://img.shields.io/github/stars/artmih24?style=social)](https://github.com/artmih24/)
-![](https://raw.githubusercontent.com/artmih24/github-stats/master/generated/overview.svg#gh-light-mode-only)
 <!-- [![GitHub Repo stars](https://img.shields.io/github/forks/artmih24?style=social)](https://github.com/artmih24/) -->
 
 <!-- <div>
@@ -67,6 +66,7 @@ Here are some ideas to get you started:
 <!--[![github](https://img.shields.io/badge/Instagram-BB00FF?logo=Instagram&logoColor=white)](https://instagram.com/artmih24/)-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artmih24)](https://github.com/anuraghazra/github-readme-stats)
+![](https://raw.githubusercontent.com/artmih24/github-stats/master/generated/overview.svg#gh-light-mode-only)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=artmih24)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artmih24&layout=compact&hide=makefile&langs_count=16)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://raw.githubusercontent.com/artmih24/github-stats/master/generated/languages.svg#gh-light-mode-only)
