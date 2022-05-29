@@ -69,10 +69,10 @@ Here are some ideas to get you started:
 <!--![](https://raw.githubusercontent.com/artmih24/github-stats/master/generated/overview.svg#gh-light-mode-only)-->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=artmih24)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artmih24&layout=compact&hide=makefile&langs_count=17)](https://github.com/anuraghazra/github-readme-stats)
-<!--![](https://raw.githubusercontent.com/artmih24/github-stats/master/generated/languages.svg#gh-light-mode-only)
--->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artmih24&hide=makefile&langs_count=17)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artmih24&layout=compact&hide=makefile&langs_count=17)](https://github.com/anuraghazra/github-readme-stats)-->
+![](https://raw.githubusercontent.com/artmih24/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artmih24&hide=makefile&langs_count=17)](https://github.com/anuraghazra/github-readme-stats)-->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=artmih24&repo=TeleParser)](https://github.com/artmih24/TeleParser)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=artmih24&repo=AsmMatrixMulptiplication)](https://github.com/artmih24/AsmMatrixMulptiplication)
