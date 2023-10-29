@@ -75,4 +75,5 @@ Here are some ideas to get you started:
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artmih24&hide=makefile&langs_count=17)](https://github.com/anuraghazra/github-readme-stats)-->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=artmih24&repo=TeleParser)](https://github.com/artmih24/TeleParser)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=artmih24&repo=PyQt5-Source-Creator)](https://github.com/artmih24/PyQt5-Source-Creator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=artmih24&repo=AsmMatrixMulptiplication)](https://github.com/artmih24/AsmMatrixMulptiplication)
